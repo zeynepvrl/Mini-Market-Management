@@ -30,4 +30,3 @@ namespace Mini_Market_Management_System
         }
     }
 }
-
